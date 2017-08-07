@@ -1,0 +1,38 @@
+.Main_div{
+	height: 50px;
+	background-color: #ccc;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 28px;
+}
+.form-div{
+	background-color: #fff;
+}
+#fname{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#email{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#w-url{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#upload{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#radio{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#sub{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+#cover{
+	padding-left: 20px;
+	padding-top: 20px;
+}
